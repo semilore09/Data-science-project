@@ -1,0 +1,680 @@
+COUNTRY_OF_ASYLUM,RETURN_DATE,ORIG_PROV_NAME,ORIG_DIST_NAME,DESTINATION_PROV_NAME,DESTINATION_DIST_NAME,INDIVIDUALS,MALE,FEMALE
+#country,#date+occurred,#admin1+name+x_origin,#admin2+name+x_origin,#admin1+name+x_destination,#admin2+name+x_destination,#affected+displaced+all,#affected+displaced+m,#affected+displaced+f
+Iran,"Sunday, January 3, 2021",Herat,Ghoryan,Herat,Ghoryan,1,0,1
+Iran,"Tuesday, January 5, 2021",Bamyan,Waras,Bamyan,Waras,1,1,0
+Iran,"Tuesday, January 5, 2021",Ghazni,Jaghatu,Herat,Herat,1,1,0
+Iran,"Tuesday, January 5, 2021",Ghazni,Nawur,Herat,Herat,3,2,1
+Iran,"Tuesday, January 5, 2021",Herat,Gulran,Herat,Herat,1,1,0
+Iran,"Tuesday, January 5, 2021",Herat,Guzara,Herat,Herat,1,1,0
+Iran,"Tuesday, January 5, 2021",Herat,Herat,Herat,Herat,3,1,2
+Iran,"Tuesday, January 5, 2021",Herat,Injil,Herat,Herat,1,1,0
+Iran,"Tuesday, January 5, 2021",Kapisa,Tagab,Kabul,Kabul,1,1,0
+Iran,"Tuesday, January 5, 2021",Kunduz,Chardarah,Kunduz,Chardarah,1,1,0
+Iran,"Wednesday, January 6, 2021",Ghazni,Jaghatu,Herat,Herat,1,1,0
+Iran,"Wednesday, January 6, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,0,1
+Iran,"Wednesday, January 6, 2021",Wardak,Daymirdad,Herat,Herat,1,1,0
+Iran,"Thursday, January 7, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Thursday, January 7, 2021",Daykundi,Nili,Daykundi,Nili,1,0,1
+Iran,"Thursday, January 7, 2021",Ghor,Lal Wa Sarjangal,Daykundi,Nili,2,1,1
+Iran,"Thursday, January 7, 2021",Jawzjan,Shiberghan,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Thursday, January 7, 2021",Uruzgan,Khasuruzgan,Herat,Herat,1,0,1
+Iran,"Thursday, January 7, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Iran,"Thursday, January 7, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,1,0
+Iran,"Friday, January 8, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Friday, January 8, 2021",Sar-e-Pul,Balkhab,Herat,Herat,1,1,0
+Iran,"Sunday, January 10, 2021",Daykundi,Khadir,Daykundi,Khadir,1,0,1
+Iran,"Sunday, January 10, 2021",Ghor,Pasaband,Ghor,Pasaband,1,0,1
+Iran,"Monday, January 11, 2021",Herat,Herat,Herat,Herat,2,2,0
+Iran,"Monday, January 11, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Monday, January 11, 2021",Kabul,Kabul,Kabul,Kabul,2,1,1
+Iran,"Tuesday, January 12, 2021",Bamyan,Panjab,Herat,Herat,1,0,1
+Iran,"Tuesday, January 12, 2021",Ghazni,Malestan,Herat,Herat,2,2,0
+Iran,"Tuesday, January 12, 2021",Herat,Ghoryan,Herat,Ghoryan,2,1,1
+Iran,"Tuesday, January 12, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Tuesday, January 12, 2021",Kunduz,Kunduz,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Tuesday, January 12, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,1,0
+Pakistan,"Tuesday, January 12, 2021",Kunduz,Dasht-e-Archi,Kunduz,Dasht-e-Archi,3,2,1
+Iran,"Wednesday, January 13, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Wednesday, January 13, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Wednesday, January 13, 2021",Bamyan,Panjab,Bamyan,Panjab,1,0,1
+Iran,"Wednesday, January 13, 2021",Bamyan,Panjab,Herat,Herat,1,1,0
+Iran,"Wednesday, January 13, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Wednesday, January 13, 2021",Daykundi,Khadir,Daykundi,Khadir,1,0,1
+Iran,"Wednesday, January 13, 2021",Daykundi,Khadir,Herat,Herat,2,1,1
+Iran,"Wednesday, January 13, 2021",Daykundi,Nili,Kabul,Kabul,2,1,1
+Iran,"Wednesday, January 13, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Wednesday, January 13, 2021",Ghazni,Jaghuri,Herat,Herat,2,1,1
+Iran,"Wednesday, January 13, 2021",Ghor,Lal Wa Sarjangal,Ghor,Lal Wa Sarjangal,1,0,1
+Iran,"Wednesday, January 13, 2021",Herat,Ghoryan,Herat,Herat,1,1,0
+Iran,"Wednesday, January 13, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Pakistan,"Wednesday, January 13, 2021",Kunduz,Khanabad,Kunduz,Khanabad,3,2,1
+Iran,"Thursday, January 14, 2021",Baghlan,Pul-e- khumri,Baghlan,Pul-e- khumri,1,1,0
+Iran,"Thursday, January 14, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Thursday, January 14, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Thursday, January 14, 2021",Jawzjan,Shiberghan,Jawzjan,Shiberghan,2,1,1
+Iran,"Friday, January 15, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Friday, January 15, 2021",Bamyan,Waras,Herat,Herat,2,0,2
+Iran,"Tuesday, January 19, 2021",Bamyan,Waras,Bamyan,Waras,1,1,0
+Iran,"Tuesday, January 19, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Tuesday, January 19, 2021",Parwan,Surkh-e- Parsa,Herat,Herat,1,1,0
+Iran,"Tuesday, January 19, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Iran,"Wednesday, January 20, 2021",Baghlan,Khenjan,Kabul,Kabul,1,0,1
+Iran,"Wednesday, January 20, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Wednesday, January 20, 2021",Daykundi,Shahrestan,Herat,Herat,1,0,1
+Iran,"Wednesday, January 20, 2021",Ghazni,Qarabagh,Ghazni,Qarabagh,1,1,0
+Iran,"Wednesday, January 20, 2021",Herat,Herat,Herat,Herat,2,1,1
+Iran,"Wednesday, January 20, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Wednesday, January 20, 2021",Parwan,Salang,Parwan,Salang,1,1,0
+Iran,"Wednesday, January 20, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Thursday, January 21, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Thursday, January 21, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Friday, January 22, 2021",Bamyan,Waras,Kabul,Kabul,1,1,0
+Iran,"Monday, January 25, 2021",Farah,Farah,Herat,Herat,1,1,0
+Iran,"Monday, January 25, 2021",Kabul,Paghman,Kabul,Kabul,1,1,0
+Iran,"Monday, January 25, 2021",Kapisa,Hisa-e- Awal-e- Kohestan,Herat,Herat,1,1,0
+Iran,"Monday, January 25, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Tuesday, January 26, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Iran,"Tuesday, January 26, 2021",Nangarhar,Behsud,Nangarhar,Behsud,1,1,0
+Iran,"Wednesday, January 27, 2021",Badakhshan,Darwaz-e-Balla,Kabul,Kabul,1,0,1
+Iran,"Wednesday, January 27, 2021",Wardak,Jalrez,Herat,Herat,1,1,0
+Pakistan,"Wednesday, January 27, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,7,3,4
+Pakistan,"Wednesday, January 27, 2021",Sar-e-Pul,Sayad,Kandahar,Spinboldak,7,4,3
+Iran,"Thursday, January 28, 2021",Daykundi,Shahrestan,Herat,Herat,1,1,0
+Iran,"Thursday, January 28, 2021",Ghazni,Nawur,Herat,Herat,1,1,0
+Iran,"Thursday, January 28, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Thursday, January 28, 2021",Ghor,Pasaband,Herat,Herat,1,0,1
+Iran,"Thursday, January 28, 2021",Jawzjan,Shiberghan,Herat,Herat,1,1,0
+Iran,"Thursday, January 28, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Iran,"Friday, January 29, 2021",Daykundi,Khadir,Herat,Herat,2,0,2
+Iran,"Friday, January 29, 2021",Daykundi,Shahrestan,Herat,Herat,1,1,0
+Iran,"Friday, January 29, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,2,2,0
+Iran,"Monday, February 1, 2021",Bamyan,Bamyan,Herat,Herat,1,0,1
+Iran,"Monday, February 1, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Monday, February 1, 2021",Daykundi,Sang-e-Takht,Herat,Herat,2,1,1
+Iran,"Monday, February 1, 2021",Ghazni,Nawur,Herat,Herat,2,1,1
+Iran,"Monday, February 1, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Iran,"Tuesday, February 2, 2021",Bamyan,Waras,Herat,Herat,2,0,2
+Iran,"Tuesday, February 2, 2021",Ghazni,Qarabagh,Herat,Herat,2,2,0
+Iran,"Tuesday, February 2, 2021",Ghor,Pasaband,Herat,Herat,1,0,1
+Iran,"Tuesday, February 2, 2021",Kapisa,Mahmud-e- Raqi,Herat,Herat,1,1,0
+Iran,"Tuesday, February 2, 2021",Kunduz,Emamsaheb,Herat,Herat,1,1,0
+Iran,"Tuesday, February 2, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,1,0
+Other Country,"Wednesday, February 3, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Other Country,"Wednesday, February 3, 2021",Paktika,Sharan,Paktika,Sharan,1,1,0
+Iran,"Wednesday, February 3, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Wednesday, February 3, 2021",Daykundi,Khadir,Daykundi,Khadir,1,0,1
+Iran,"Wednesday, February 3, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Iran,"Wednesday, February 3, 2021",Herat,Herat,Herat,Herat,2,1,1
+Iran,"Wednesday, February 3, 2021",Jawzjan,Shiberghan,Jawzjan,Shiberghan,1,1,0
+Pakistan,"Wednesday, February 3, 2021",Faryab,Almar,Faryab,Almar,6,2,4
+Iran,"Thursday, February 4, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,0,1
+Iran,"Thursday, February 4, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Thursday, February 4, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Thursday, February 4, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,0,1
+Iran,"Friday, February 5, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Friday, February 5, 2021",Bamyan,Bamyan,Kabul,Kabul,1,0,1
+Iran,"Friday, February 5, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Friday, February 5, 2021",Jawzjan,Darzab,Herat,Herat,1,0,1
+Iran,"Friday, February 5, 2021",Kabul,Kabul,Kabul,Kabul,1,0,1
+Iran,"Sunday, February 7, 2021",Kabul,Kabul,Kabul,Kabul,2,1,1
+Iran,"Monday, February 8, 2021",Bamyan,Waras,Bamyan,Waras,2,1,1
+Iran,"Monday, February 8, 2021",Bamyan,Waras,Herat,Herat,2,0,2
+Iran,"Monday, February 8, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Monday, February 8, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Iran,"Monday, February 8, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,3,1,2
+Iran,"Tuesday, February 9, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Tuesday, February 9, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Tuesday, February 9, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Tuesday, February 9, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Tuesday, February 9, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Tuesday, February 9, 2021",Herat,Herat,Herat,Herat,1,1,0
+Iran,"Tuesday, February 9, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Tuesday, February 9, 2021",Samangan,Aybak,Kabul,Kabul,1,1,0
+Iran,"Tuesday, February 9, 2021",Uruzgan,Khasuruzgan,Herat,Herat,1,0,1
+Iran,"Tuesday, February 9, 2021",Uruzgan,Khasuruzgan,Kabul,Kabul,1,0,1
+Iran,"Tuesday, February 9, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Pakistan,"Tuesday, February 9, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,5,4,1
+Other Country,"Wednesday, February 10, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Wednesday, February 10, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Wednesday, February 10, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Wednesday, February 10, 2021",Kabul,Paghman,Kabul,Paghman,9,6,3
+Iran,"Wednesday, February 10, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Other Country,"Wednesday, February 10, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Pakistan,"Thursday, February 11, 2021",Faryab,Maymana,Herat,Herat,4,2,2
+Iran,"Friday, February 12, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Tuesday, February 16, 2021",Bamyan,Bamyan,Bamyan,Bamyan,1,0,1
+Iran,"Tuesday, February 16, 2021",Faryab,Maymana,Faryab,Maymana,3,2,1
+Iran,"Tuesday, February 16, 2021",Paktya,Gardez,Paktya,Gardez,1,1,0
+Pakistan,"Tuesday, February 16, 2021",Kunduz,Khanabad,Kunduz,Khanabad,2,0,2
+Iran,"Wednesday, February 17, 2021",Bamyan,Panjab,Bamyan,Panjab,1,0,1
+Iran,"Wednesday, February 17, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Wednesday, February 17, 2021",Farah,Farah,Farah,Farah,1,0,1
+Iran,"Wednesday, February 17, 2021",Samangan,Dara-e- Suf-e- Payin,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Wednesday, February 17, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,0,1
+Pakistan,"Wednesday, February 17, 2021",Kandahar,Kandahar,Kandahar,Kandahar,3,2,1
+Pakistan,"Wednesday, February 17, 2021",Wardak,Daymirdad,Kandahar,Kandahar,7,3,4
+Iran,"Thursday, February 18, 2021",Baghlan,Pul-e- khumri,Herat,Herat,1,0,1
+Iran,"Thursday, February 18, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Thursday, February 18, 2021",Daykundi,Nili,Herat,Herat,2,0,2
+Iran,"Thursday, February 18, 2021",Ghazni,Ghazni,Kabul,Kabul,1,0,1
+Iran,"Thursday, February 18, 2021",Ghazni,Qarabagh,Herat,Herat,1,1,0
+Iran,"Thursday, February 18, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,2,1,1
+Iran,"Thursday, February 18, 2021",Samangan,Dara-e- Suf-e- Payin,Herat,Herat,1,0,1
+Iran,"Thursday, February 18, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,1,0
+Iran,"Thursday, February 18, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Sunday, February 21, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Sunday, February 21, 2021",Wardak,Markaz-e-Behsud,Wardak,Markaz-e-Behsud,1,1,0
+Iran,"Monday, February 22, 2021",Balkh,Chemtal,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Bamyan,Bamyan,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Bamyan,Panjab,Bamyan,Panjab,2,1,1
+Iran,"Monday, February 22, 2021",Bamyan,Yakawlang,Bamyan,Yakawlang,1,0,1
+Iran,"Monday, February 22, 2021",Daykundi,Nili,Herat,Herat,2,2,0
+Iran,"Monday, February 22, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Faryab,Qaysar,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Ghazni,Jaghatu,Ghazni,Jaghatu,1,0,1
+Iran,"Monday, February 22, 2021",Ghazni,Jaghuri,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Ghazni,Malestan,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Ghazni,Nawur,Ghazni,Nawur,5,3,2
+Iran,"Monday, February 22, 2021",Ghazni,Qarabagh,Ghazni,Qarabagh,1,0,1
+Iran,"Monday, February 22, 2021",Ghor,Pasaband,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Herat,Shindand,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Jawzjan,Shiberghan,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Monday, February 22, 2021",Kunduz,Kunduz,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Parwan,Shekhali,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Samangan,Aybak,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Samangan,Dara-e- Suf-e- Payin,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Monday, February 22, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,1,0
+Iran,"Monday, February 22, 2021",Sar-e-Pul,Sayad,Herat,Herat,1,1,0
+Iran,"Tuesday, February 23, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Tuesday, February 23, 2021",Bamyan,Panjab,Herat,Herat,1,0,1
+Iran,"Tuesday, February 23, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Tuesday, February 23, 2021",Bamyan,Yakawlang,Herat,Herat,1,1,0
+Iran,"Tuesday, February 23, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Tuesday, February 23, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Tuesday, February 23, 2021",Daykundi,Shahrestan,Herat,Herat,1,0,1
+Iran,"Tuesday, February 23, 2021",Ghazni,Nawur,Herat,Herat,1,0,1
+Iran,"Tuesday, February 23, 2021",Ghazni,Qarabagh,Kabul,Kabul,1,0,1
+Iran,"Tuesday, February 23, 2021",Kabul,Kabul,Herat,Herat,2,2,0
+Iran,"Tuesday, February 23, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Pakistan,"Tuesday, February 23, 2021",Baghlan,Pul-e- khumri,Kunduz,Khanabad,5,3,2
+Iran,"Wednesday, February 24, 2021",Daykundi,Nili,Herat,Herat,1,1,0
+Iran,"Wednesday, February 24, 2021",Farah,Farah,Herat,Herat,3,2,1
+Iran,"Wednesday, February 24, 2021",Ghazni,Jaghuri,Herat,Herat,1,1,0
+Iran,"Wednesday, February 24, 2021",Ghazni,Qarabagh,Herat,Herat,1,1,0
+Iran,"Wednesday, February 24, 2021",Ghor,Pasaband,Ghor,Pasaband,3,3,0
+Pakistan,"Wednesday, February 24, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,7,3,4
+Iran,"Thursday, February 25, 2021",Farah,Farah,Kabul,Kabul,1,1,0
+Iran,"Thursday, February 25, 2021",Parwan,Bagram,Parwan,Bagram,1,1,0
+Iran,"Friday, February 26, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Friday, February 26, 2021",Sar-e-Pul,Sancharak(sangchark),Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Sunday, February 28, 2021",Bamyan,Bamyan,Herat,Herat,1,1,0
+Iran,"Sunday, February 28, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Monday, March 1, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Monday, March 1, 2021",Daykundi,Khadir,Herat,Herat,1,1,0
+Iran,"Monday, March 1, 2021",Farah,Farah,Farah,Farah,2,2,0
+Iran,"Monday, March 1, 2021",Farah,Farah,Herat,Herat,2,2,0
+Iran,"Monday, March 1, 2021",Farah,Lash-e-Juwayn,Herat,Herat,1,1,0
+Iran,"Monday, March 1, 2021",Ghazni,Nawur,Herat,Herat,1,0,1
+Iran,"Monday, March 1, 2021",Kabul,Kabul,Kabul,Kabul,2,2,0
+Iran,"Tuesday, March 2, 2021",Baghlan,Pul-e- khumri,Herat,Herat,1,0,1
+Iran,"Tuesday, March 2, 2021",Bamyan,Waras,Herat,Herat,2,1,1
+Iran,"Tuesday, March 2, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,0,1
+Iran,"Tuesday, March 2, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Tuesday, March 2, 2021",Daykundi,Khadir,Herat,Herat,1,0,1
+Iran,"Tuesday, March 2, 2021",Daykundi,Shahrestan,Herat,Herat,2,2,0
+Iran,"Tuesday, March 2, 2021",Farah,Farah,Herat,Herat,1,1,0
+Iran,"Tuesday, March 2, 2021",Farah,Pushtrod,Herat,Herat,1,1,0
+Iran,"Tuesday, March 2, 2021",Ghazni,Jaghuri,Herat,Herat,1,0,1
+Iran,"Tuesday, March 2, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Tuesday, March 2, 2021",Herat,Herat,Herat,Herat,4,3,1
+Iran,"Tuesday, March 2, 2021",Uruzgan,Khasuruzgan,Herat,Herat,1,1,0
+Pakistan,"Tuesday, March 2, 2021",Faryab,Pashtunkot,Faryab,Pashtunkot,13,8,5
+Iran,"Wednesday, March 3, 2021",Baghlan,Pul-e- khumri,Herat,Herat,1,0,1
+Iran,"Wednesday, March 3, 2021",Bamyan,Panjab,Herat,Herat,1,0,1
+Iran,"Wednesday, March 3, 2021",Bamyan,Waras,Bamyan,Waras,1,1,0
+Iran,"Wednesday, March 3, 2021",Daykundi,Ashtarlay,Herat,Herat,1,0,1
+Iran,"Wednesday, March 3, 2021",Farah,Farah,Kabul,Kabul,1,0,1
+Iran,"Wednesday, March 3, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Iran,"Wednesday, March 3, 2021",Herat,Herat,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Wednesday, March 3, 2021",Herat,Herat,Herat,Herat,2,1,1
+Iran,"Thursday, March 4, 2021",Baghlan,Pul-e- khumri,Herat,Herat,2,2,0
+Pakistan,"Thursday, March 4, 2021",Kandahar,Maruf,Kandahar,Spinboldak,4,2,2
+Other Country,"Sunday, March 7, 2021",Herat,Herat,Kabul,Kabul,1,1,0
+Iran,"Sunday, March 7, 2021",Daykundi,Miramor,Herat,Herat,1,1,0
+Iran,"Sunday, March 7, 2021",Farah,Farah,Kabul,Kabul,1,0,1
+Iran,"Monday, March 8, 2021",Kabul,Kabul,Herat,Herat,2,2,0
+Iran,"Monday, March 8, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Tuesday, March 9, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Tuesday, March 9, 2021",Bamyan,Yakawlang,Herat,Herat,1,0,1
+Iran,"Tuesday, March 9, 2021",Daykundi,Ashtarlay,Herat,Herat,1,0,1
+Iran,"Tuesday, March 9, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Tuesday, March 9, 2021",Daykundi,Sang-e-Takht,Daykundi,Sang-e-Takht,1,1,0
+Iran,"Tuesday, March 9, 2021",Ghazni,Ghazni,Herat,Herat,1,1,0
+Iran,"Tuesday, March 9, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,0,1
+Iran,"Tuesday, March 9, 2021",Herat,Herat,Kabul,Kabul,1,1,0
+Iran,"Tuesday, March 9, 2021",Kunduz,Dasht-e-Archi,Herat,Herat,1,1,0
+Iran,"Tuesday, March 9, 2021",Nimroz,Zaranj,Herat,Herat,1,1,0
+Iran,"Tuesday, March 9, 2021",Parwan,Charikar,Kabul,Kabul,1,0,1
+Iran,"Tuesday, March 9, 2021",Wardak,Maydanshahr,Kabul,Kabul,1,1,0
+Pakistan,"Tuesday, March 9, 2021",Faryab,Pashtunkot,Faryab,Maymana,4,1,3
+Pakistan,"Tuesday, March 9, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,4,2,2
+Iran,"Wednesday, March 10, 2021",Daykundi,Gizab,Herat,Herat,1,1,0
+Iran,"Wednesday, March 10, 2021",Farah,Farah,Herat,Herat,1,0,1
+Iran,"Wednesday, March 10, 2021",Wardak,Markaz-e-Behsud,Wardak,Markaz-e-Behsud,1,0,1
+Pakistan,"Wednesday, March 10, 2021",Kunduz,Kunduz,Kunduz,Kunduz,7,2,5
+Pakistan,"Wednesday, March 10, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,0,1
+Iran,"Thursday, March 11, 2021",Ghazni,Ghazni,Ghazni,Ghazni,1,1,0
+Iran,"Thursday, March 11, 2021",Ghazni,Ghazni,Herat,Herat,2,1,1
+Iran,"Thursday, March 11, 2021",Ghazni,Malestan,Herat,Herat,1,1,0
+Iran,"Thursday, March 11, 2021",Kabul,Kabul,Daykundi,Nili,1,1,0
+Iran,"Thursday, March 11, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,2,0,2
+Iran,"Monday, March 15, 2021",Baghlan,Pul-e- khumri,Herat,Herat,1,1,0
+Iran,"Monday, March 15, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,0,1
+Iran,"Monday, March 15, 2021",Bamyan,Bamyan,Herat,Herat,1,1,0
+Iran,"Monday, March 15, 2021",Bamyan,Panjab,Kabul,Kabul,1,0,1
+Iran,"Monday, March 15, 2021",Bamyan,Waras,Kabul,Kabul,1,1,0
+Iran,"Monday, March 15, 2021",Daykundi,Gizab,Daykundi,Gizab,5,2,3
+Iran,"Monday, March 15, 2021",Daykundi,Miramor,Herat,Herat,1,0,1
+Iran,"Monday, March 15, 2021",Daykundi,Nili,Herat,Herat,2,1,1
+Iran,"Monday, March 15, 2021",Faryab,Maymana,Faryab,Maymana,7,3,4
+Iran,"Monday, March 15, 2021",Ghazni,Ghazni,Kabul,Kabul,1,0,1
+Iran,"Monday, March 15, 2021",Ghazni,Qarabagh,Herat,Herat,1,0,1
+Iran,"Monday, March 15, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,3,1,2
+Iran,"Monday, March 15, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Monday, March 15, 2021",Jawzjan,Darzab,Jawzjan,Darzab,6,4,2
+Iran,"Monday, March 15, 2021",Kabul,Kabul,Bamyan,Panjab,1,0,1
+Iran,"Monday, March 15, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Monday, March 15, 2021",Laghman,Alingar,Laghman,Alingar,6,4,2
+Iran,"Monday, March 15, 2021",Samangan,Hazrat-e- Sultan,Herat,Herat,1,1,0
+Iran,"Monday, March 15, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,6,3,3
+Other Country,"Tuesday, March 16, 2021",Kandahar,Kandahar,Kabul,Kabul,1,1,0
+Iran,"Tuesday, March 16, 2021",Ghazni,Jaghuri,Herat,Herat,2,0,2
+Iran,"Tuesday, March 16, 2021",Laghman,Alishang,Herat,Herat,2,1,1
+Iran,"Wednesday, March 17, 2021",Bamyan,Bamyan,Herat,Herat,1,0,1
+Iran,"Wednesday, March 17, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Wednesday, March 17, 2021",Bamyan,Waras,Kabul,Kabul,2,0,2
+Iran,"Wednesday, March 17, 2021",Ghazni,Jaghuri,Herat,Herat,1,0,1
+Iran,"Wednesday, March 17, 2021",Ghazni,Qarabagh,Herat,Herat,4,1,3
+Iran,"Wednesday, March 17, 2021",Herat,Shindand,Herat,Herat,1,1,0
+Iran,"Wednesday, March 17, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Wednesday, March 17, 2021",Wardak,Maydanshahr,Kabul,Kabul,3,1,2
+Pakistan,"Wednesday, March 17, 2021",Baghlan,Pul-e- khumri,Baghlan,Pul-e- khumri,3,2,1
+Pakistan,"Wednesday, March 17, 2021",Kunduz,Chardarah,Herat,Shindand,1,1,0
+Iran,"Thursday, March 18, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Thursday, March 18, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Thursday, March 18, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,1,0
+Iran,"Thursday, March 18, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Friday, March 19, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,4,1,3
+Iran,"Friday, March 19, 2021",Bamyan,Bamyan,Kabul,Kabul,1,0,1
+Iran,"Friday, March 19, 2021",Farah,Pushtrod,Herat,Herat,1,1,0
+Iran,"Friday, March 19, 2021",Kabul,Qarabagh,Kabul,Kabul,1,1,0
+Iran,"Friday, March 19, 2021",Parwan,Ghorband,Kabul,Kabul,6,3,3
+Iran,"Tuesday, March 23, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Pakistan,"Tuesday, March 23, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,7,3,4
+Pakistan,"Tuesday, March 23, 2021",Kabul,Kabul,Jawzjan,Aqcha,2,1,1
+Iran,"Wednesday, March 24, 2021",Kabul,Kabul,Kabul,Kabul,3,1,2
+Pakistan,"Wednesday, March 24, 2021",Kunduz,Khanabad,Kunduz,Khanabad,2,1,1
+Iran,"Friday, March 26, 2021",Badakhshan,Keshem,Herat,Herat,1,1,0
+Iran,"Friday, March 26, 2021",Herat,Guzara,Herat,Herat,1,0,1
+Iran,"Friday, March 26, 2021",Kabul,Qarabagh,Herat,Herat,1,1,0
+Iran,"Sunday, March 28, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Sunday, March 28, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Sunday, March 28, 2021",Herat,Guzara,Herat,Herat,2,1,1
+Iran,"Monday, March 29, 2021",Baghlan,Pul-e- khumri,Kabul,Kabul,5,2,3
+Iran,"Monday, March 29, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,0,1
+Iran,"Monday, March 29, 2021",Daykundi,Khadir,Daykundi,Khadir,3,0,3
+Iran,"Monday, March 29, 2021",Daykundi,Nili,Daykundi,Khadir,1,0,1
+Iran,"Monday, March 29, 2021",Daykundi,Nili,Kabul,Kabul,1,1,0
+Iran,"Monday, March 29, 2021",Paktya,Gardez,Kabul,Kabul,2,1,1
+Iran,"Monday, March 29, 2021",Wardak,Maydanshahr,Herat,Herat,1,0,1
+Iran,"Tuesday, March 30, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Tuesday, March 30, 2021",Bamyan,Yakawlang,Bamyan,Yakawlang,1,0,1
+Iran,"Tuesday, March 30, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Tuesday, March 30, 2021",Sar-e-Pul,Sancharak(sangchark),Herat,Herat,1,1,0
+Iran,"Tuesday, March 30, 2021",Wardak,Markaz-e-Behsud,Wardak,Markaz-e-Behsud,1,1,0
+Pakistan,"Tuesday, March 30, 2021",Zabul,Daychopan,Zabul,Shahjoy,5,0,5
+Iran,"Wednesday, March 31, 2021",Ghazni,Qarabagh,Herat,Herat,1,0,1
+Iran,"Wednesday, March 31, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Wednesday, March 31, 2021",Kabul,Mirbachakot,Kabul,Mirbachakot,8,3,5
+Iran,"Wednesday, March 31, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,0,1
+Pakistan,"Wednesday, March 31, 2021",Faryab,Maymana,Herat,Herat,4,3,1
+Pakistan,"Wednesday, March 31, 2021",Kunduz,Emamsaheb,Kunduz,Emamsaheb,5,3,2
+Pakistan,"Wednesday, March 31, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,13,5,8
+Iran,"Thursday, April 1, 2021",Farah,Farah,Herat,Herat,1,0,1
+Iran,"Thursday, April 1, 2021",Herat,Herat,Herat,Herat,1,1,0
+Pakistan,"Thursday, April 1, 2021",Jawzjan,Shiberghan,Kunduz,Chardarah,7,3,4
+Pakistan,"Thursday, April 1, 2021",Kunduz,Chardarah,Kunduz,Chardarah,1,1,0
+Pakistan,"Saturday, April 3, 2021",Kunduz,Khanabad,Kunduz,Khanabad,8,2,6
+Iran,"Monday, April 5, 2021",Ghazni,Jaghuri,Sar-e-Pul,Sar-e-Pul,1,1,0
+Iran,"Tuesday, April 6, 2021",Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,"Tuesday, April 6, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Tuesday, April 6, 2021",Kabul,Qarabagh,Kabul,Kabul,1,1,0
+Iran,"Tuesday, April 6, 2021",Samangan,Hazrat-e- Sultan,Herat,Herat,1,1,0
+Pakistan,"Tuesday, April 6, 2021",Kabul,Kabul,Logar,Pul-e- Alam,4,0,4
+Pakistan,"Tuesday, April 6, 2021",Logar,Pul-e- Alam,Logar,Pul-e- Alam,6,4,2
+Pakistan,"Tuesday, April 6, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,7,4,3
+Pakistan,"Tuesday, April 6, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sar-e-Pul,3,3,0
+Pakistan,"Tuesday, April 6, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,9,9,0
+Iran,"Wednesday, April 7, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Wednesday, April 7, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Wednesday, April 7, 2021",Kabul,Shakardara,Kabul,Kabul,1,1,0
+Pakistan,"Wednesday, April 7, 2021",Kunduz,Kunduz,Kunduz,Kunduz,8,5,3
+Pakistan,"Wednesday, April 7, 2021",Wardak,Maydanshahr,Wardak,Maydanshahr,6,3,3
+Iran,"Thursday, April 8, 2021",Jawzjan,Shiberghan,Jawzjan,Shiberghan,1,0,1
+Iran,"Thursday, April 8, 2021",Wardak,Maydanshahr,Kabul,Kabul,1,1,0
+Iran,"Friday, April 9, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,0,1
+Iran,"Friday, April 9, 2021",Bamyan,Panjab,Herat,Herat,1,1,0
+Iran,"Friday, April 9, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Friday, April 9, 2021",Daykundi,Nili,Herat,Herat,1,0,1
+Iran,"Sunday, April 11, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Monday, April 12, 2021",Logar,Barakibarak,Kabul,Kabul,2,1,1
+Iran,"Monday, April 12, 2021",Sar-e-Pul,Sayad,Herat,Herat,1,1,0
+Iran,"Tuesday, April 13, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,1,0
+Iran,"Tuesday, April 13, 2021",Paktya,Gardez,Kabul,Kabul,5,2,3
+Pakistan,"Tuesday, April 13, 2021",Balkh,Sholgareh,Balkh,Sholgareh,5,2,3
+Iran,"Wednesday, April 14, 2021",Badakhshan,Yaftal-e-Sufla,Herat,Herat,1,0,1
+Iran,"Wednesday, April 14, 2021",Baghlan,Baghlan-e-Jadid,Baghlan,Baghlan-e-Jadid,1,1,0
+Iran,"Wednesday, April 14, 2021",Bamyan,Bamyan,Herat,Herat,4,3,1
+Iran,"Wednesday, April 14, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Wednesday, April 14, 2021",Farah,Farah,Herat,Herat,2,2,0
+Iran,"Wednesday, April 14, 2021",Ghazni,Ghazni,Ghazni,Ghazni,1,1,0
+Iran,"Wednesday, April 14, 2021",Ghazni,Qarabagh,Herat,Herat,1,0,1
+Iran,"Wednesday, April 14, 2021",Herat,Zindajan,Herat,Herat,1,1,0
+Iran,"Wednesday, April 14, 2021",Samangan,Dara-e- Suf-e- Payin,Herat,Herat,1,0,1
+Iran,"Wednesday, April 14, 2021",Wardak,Hesa-e- Awal-e- Behsud,Kabul,Kabul,1,0,1
+Iran,"Wednesday, April 14, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Pakistan,"Wednesday, April 14, 2021",Nangarhar,Batikot,Nangarhar,Batikot,3,3,0
+Pakistan,"Wednesday, April 14, 2021",Nangarhar,Jalalabad,Nangarhar,Jalalabad,1,1,0
+Pakistan,"Wednesday, April 14, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,6,2,4
+Iran,"Thursday, April 15, 2021",Daykundi,kiti,Kabul,Kabul,1,0,1
+Iran,"Thursday, April 15, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Friday, April 16, 2021",Parwan,Salang,Kabul,Kabul,1,1,0
+Iran,"Monday, April 19, 2021",Baghlan,Pul-e- khumri,Herat,Herat,1,0,1
+Iran,"Monday, April 19, 2021",Balkh,Dawlatabad,Herat,Herat,1,1,0
+Iran,"Monday, April 19, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Monday, April 19, 2021",Bamyan,Waras,Bamyan,Waras,2,1,1
+Iran,"Monday, April 19, 2021",Ghazni,Ghazni,Herat,Herat,2,0,2
+Iran,"Monday, April 19, 2021",Ghazni,Jaghuri,Herat,Herat,3,0,3
+Iran,"Monday, April 19, 2021",Ghazni,Qarabagh,Herat,Herat,1,0,1
+Iran,"Monday, April 19, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Monday, April 19, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Monday, April 19, 2021",Kabul,Kabul,Kabul,Kabul,1,0,1
+Iran,"Monday, April 19, 2021",Kapisa,Mahmud-e- Raqi,Herat,Herat,1,1,0
+Iran,"Monday, April 19, 2021",Sar-e-Pul,Sancharak(sangchark),Sar-e-Pul,Sancharak(sangchark),5,4,1
+Iran,"Monday, April 19, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,0,1
+Other Country,"Tuesday, April 20, 2021",Bamyan,Shibar,Kabul,Kabul,4,2,2
+Other Country,"Tuesday, April 20, 2021",Samangan,Aybak,Kabul,Kabul,2,0,2
+Iran,"Tuesday, April 20, 2021",Baghlan,Nahrin,Herat,Herat,1,1,0
+Iran,"Tuesday, April 20, 2021",Balkh,Mazar-e-Sharif,Kabul,Kabul,1,1,0
+Iran,"Tuesday, April 20, 2021",Bamyan,Yakawlang,Herat,Herat,1,0,1
+Iran,"Tuesday, April 20, 2021",Daykundi,Khadir,Herat,Herat,1,0,1
+Iran,"Tuesday, April 20, 2021",Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,"Tuesday, April 20, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Tuesday, April 20, 2021",Kabul,Kabul,Kabul,Kabul,8,4,4
+Iran,"Tuesday, April 20, 2021",Kapisa,Kohband,Herat,Herat,1,0,1
+Iran,"Tuesday, April 20, 2021",Sar-e-Pul,Balkhab,Herat,Herat,1,0,1
+Pakistan,"Tuesday, April 20, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,4,1,3
+Pakistan,"Tuesday, April 20, 2021",Samangan,Aybak,Samangan,Aybak,2,1,1
+Iran,"Wednesday, April 21, 2021",Kabul,Paghman,Herat,Herat,1,1,0
+Iran,"Thursday, April 22, 2021",Takhar,Taloqan,Takhar,Taloqan,4,3,1
+Iran,"Monday, April 26, 2021",Ghazni,Malestan,Ghazni,Malestan,1,1,0
+Iran,"Tuesday, April 27, 2021",Bamyan,Bamyan,Herat,Herat,1,0,1
+Iran,"Tuesday, April 27, 2021",Daykundi,Shahrestan,Balkh,Mazar-e-Sharif,3,1,2
+Iran,"Tuesday, April 27, 2021",Herat,Herat,Herat,Herat,1,1,0
+Iran,"Tuesday, April 27, 2021",Kapisa,Tagab,Kabul,Kabul,1,1,0
+Pakistan,"Tuesday, April 27, 2021",Balkh,Balkh,Balkh,Mazar-e-Sharif,1,0,1
+Pakistan,"Tuesday, April 27, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,5,3,2
+Iran,"Wednesday, April 28, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,2,0,2
+Iran,"Wednesday, April 28, 2021",Bamyan,Bamyan,Herat,Herat,1,1,0
+Iran,"Wednesday, April 28, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,0,1
+Iran,"Wednesday, April 28, 2021",Herat,Herat,Herat,Herat,1,0,1
+Pakistan,"Wednesday, April 28, 2021",Kunduz,Khanabad,Kunduz,Khanabad,1,1,0
+Pakistan,"Wednesday, April 28, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sar-e-Pul,2,0,2
+Pakistan,"Wednesday, April 28, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,3,2,1
+Iran,"Thursday, April 29, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,2,1,1
+Iran,"Thursday, April 29, 2021",Balkh,Mazar-e-Sharif,Kabul,Kabul,1,0,1
+Iran,"Thursday, April 29, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Thursday, April 29, 2021",Uruzgan,Khasuruzgan,Uruzgan,Khasuruzgan,1,0,1
+Iran,"Monday, May 3, 2021",Ghazni,Qarabagh,Kabul,Kabul,1,0,1
+Iran,"Monday, May 3, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,1,0
+Iran,"Monday, May 3, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Monday, May 3, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,4,3,1
+Iran,"Tuesday, May 4, 2021",Bamyan,Waras,Herat,Herat,2,2,0
+Iran,"Tuesday, May 4, 2021",Ghazni,Jaghatu,Herat,Herat,1,1,0
+Iran,"Tuesday, May 4, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Tuesday, May 4, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Pakistan,"Tuesday, May 4, 2021",Balkh,Mazar-e-Sharif,Balkh,Balkh,2,1,1
+Pakistan,"Tuesday, May 4, 2021",Kandahar,Kandahar,Kandahar,Kandahar,1,1,0
+Pakistan,"Tuesday, May 4, 2021",Kunduz,Kunduz,Kunduz,Kunduz,1,0,1
+Iran,"Thursday, May 6, 2021",Balkh,Dehdadi,Herat,Herat,2,1,1
+Iran,"Thursday, May 6, 2021",Bamyan,Waras,Herat,Herat,1,0,1
+Iran,"Thursday, May 6, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Thursday, May 6, 2021",Ghazni,Qarabagh,Herat,Herat,1,0,1
+Iran,"Thursday, May 6, 2021",Herat,Herat,Herat,Herat,1,1,0
+Iran,"Thursday, May 6, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,0,1
+Pakistan,"Thursday, May 6, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,5,4,1
+Iran,"Friday, May 7, 2021",Kabul,Kabul,Kabul,Kabul,3,3,0
+Iran,"Sunday, May 9, 2021",Herat,Herat,Herat,Herat,2,1,1
+Iran,"Monday, May 10, 2021",Baghlan,Baghlan-e-Jadid,Baghlan,Baghlan-e-Jadid,1,0,1
+Iran,"Monday, May 10, 2021",Bamyan,Panjab,Bamyan,Panjab,1,0,1
+Iran,"Monday, May 10, 2021",Bamyan,Waras,Herat,Herat,2,0,2
+Iran,"Monday, May 10, 2021",Bamyan,Yakawlang,Bamyan,Yakawlang,1,1,0
+Iran,"Monday, May 10, 2021",Ghazni,Malestan,Herat,Herat,1,1,0
+Iran,"Monday, May 10, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,0,1
+Iran,"Monday, May 10, 2021",Herat,Ghoryan,Herat,Ghoryan,1,1,0
+Iran,"Monday, May 10, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Monday, May 10, 2021",Sar-e-Pul,Sayad,Herat,Herat,2,2,0
+Iran,"Monday, May 10, 2021",Wardak,Daymirdad,Wardak,Daymirdad,1,0,1
+Iran,"Tuesday, May 11, 2021",Daykundi,Ashtarlay,Daykundi,Ashtarlay,7,2,5
+Iran,"Wednesday, May 12, 2021",Herat,Ghoryan,Herat,Herat,1,1,0
+Iran,"Wednesday, May 12, 2021",Herat,Injil,Kabul,Kabul,1,1,0
+Iran,"Wednesday, May 12, 2021",Kandahar,Arghandab,Kandahar,Arghandab,2,0,2
+Iran,"Wednesday, May 12, 2021",Panjsher,Bazarak,Kabul,Kabul,1,0,1
+Iran,"Wednesday, May 12, 2021",Panjsher,Herat,Panjsher,Khenj (Hes-e- Awal),4,1,3
+Iran,"Wednesday, May 12, 2021",Samangan,Aybak,Kabul,Kabul,3,2,1
+Iran,"Monday, May 17, 2021",Bamyan,Yakawlang,Herat,Herat,2,2,0
+Other Country,"Tuesday, May 18, 2021",Ghazni,Ghazni,Kabul,Kabul,3,0,3
+Other Country,"Tuesday, May 18, 2021",Kabul,Kabul,Kabul,Kabul,2,0,2
+Other Country,"Tuesday, May 18, 2021",Laghman,Alingar,Kabul,Kabul,12,4,8
+Iran,"Tuesday, May 18, 2021",Bamyan,Bamyan,Kabul,Kabul,1,1,0
+Iran,"Tuesday, May 18, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Tuesday, May 18, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,3,2,1
+Iran,"Wednesday, May 19, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Wednesday, May 19, 2021",Ghazni,Jaghuri,Kabul,Kabul,2,1,1
+Iran,"Wednesday, May 19, 2021",Herat,Obe,Herat,Obe,1,1,0
+Iran,"Wednesday, May 19, 2021",Kabul,Dehsabz,Kabul,Kabul,3,2,1
+Iran,"Wednesday, May 19, 2021",Kabul,Guldara,Herat,Herat,1,0,1
+Iran,"Wednesday, May 19, 2021",Parwan,Jabalussaraj,Kabul,Kabul,1,1,0
+Pakistan,"Wednesday, May 19, 2021",Zabul,Qalat,Hilmand,Nahr-e-Saraj,9,5,4
+Iran,"Thursday, May 20, 2021",Balkh,Dehsabz,Herat,Herat,1,0,1
+Iran,"Thursday, May 20, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Thursday, May 20, 2021",Kabul,Qarabagh,Baghlan,Pul-e- khumri,2,1,1
+Iran,"Friday, May 21, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,1,0
+Pakistan,"Sunday, May 23, 2021",Sar-e-Pul,Sayad,Faryab,Maymana,1,1,0
+Iran,"Monday, May 24, 2021",Bamyan,Bamyan,Bamyan,Bamyan,2,0,2
+Iran,"Monday, May 24, 2021",Bamyan,Waras,Bamyan,Waras,1,1,0
+Iran,"Monday, May 24, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Monday, May 24, 2021",Daykundi,Khadir,Herat,Herat,1,1,0
+Iran,"Monday, May 24, 2021",Daykundi,Nili,Herat,Herat,2,1,1
+Iran,"Monday, May 24, 2021",Farah,Farah,Farah,Farah,1,0,1
+Iran,"Monday, May 24, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,0,1
+Iran,"Tuesday, May 25, 2021",Baghlan,Pul-e- khumri,Kabul,Kabul,2,1,1
+Iran,"Tuesday, May 25, 2021",Farah,Pushtrod,Farah,Pushtrod,1,0,1
+Iran,"Tuesday, May 25, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Tuesday, May 25, 2021",Sar-e-Pul,Sancharak(sangchark),Herat,Herat,1,1,0
+Pakistan,"Tuesday, May 25, 2021",Kunduz,Kunduz,Kunduz,Kunduz,3,2,1
+Pakistan,"Tuesday, May 25, 2021",Samangan,Aybak,Samangan,Aybak,5,1,4
+Iran,"Wednesday, May 26, 2021",Ghazni,Jaghatu,Kabul,Kabul,1,0,1
+Iran,"Wednesday, May 26, 2021",Herat,Injil,Herat,Herat,1,0,1
+Iran,"Wednesday, May 26, 2021",Herat,Shindand,Herat,Shindand,1,1,0
+Pakistan,"Wednesday, May 26, 2021",Balkh,Nahr-e- Shahi,Balkh,Nahr-e- Shahi,6,2,4
+Pakistan,"Wednesday, May 26, 2021",Kandahar,Arghestan,Kandahar,Arghestan,8,5,3
+Pakistan,"Wednesday, May 26, 2021",Kunduz,Khanabad,Kunduz,Khanabad,2,1,1
+Pakistan,"Wednesday, May 26, 2021",Laghman,Mehtarlam,Kabul,Kabul,1,1,0
+Pakistan,"Wednesday, May 26, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,5,3,2
+Pakistan,"Wednesday, May 26, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,3,0,3
+Pakistan,"Wednesday, May 26, 2021",Takhar,Darqad,Takhar,Darqad,2,1,1
+Iran,"Thursday, May 27, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Thursday, May 27, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Pakistan,"Thursday, May 27, 2021",Bamyan,Panjab,Kabul,Kabul,1,1,0
+Pakistan,"Thursday, May 27, 2021",Wardak,Hesa-e- Awal-e- Behsud,Kabul,Kabul,7,2,5
+Iran,"Sunday, May 30, 2021",Herat,Herat,Kabul,Kabul,1,1,0
+Iran,"Monday, May 31, 2021",Badakhshan,Keshem,Herat,Herat,1,1,0
+Iran,"Monday, May 31, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,1,0
+Iran,"Monday, May 31, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,0,1
+Iran,"Tuesday, June 1, 2021",Herat,Injil,Herat,Herat,1,1,0
+Pakistan,"Tuesday, June 1, 2021",Jawzjan,Qushtepa,Jawzjan,Qushtepa,5,2,3
+Pakistan,"Tuesday, June 1, 2021",Kunduz,Dasht-e-Archi,Kunduz,Dasht-e-Archi,11,5,6
+Pakistan,"Tuesday, June 1, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,1,0,1
+Pakistan,"Tuesday, June 1, 2021",Takhar,Darqad,Kunduz,Dasht-e-Archi,1,1,0
+Iran,"Wednesday, June 2, 2021",Baghlan,Andarab,Baghlan,Andarab,1,1,0
+Iran,"Wednesday, June 2, 2021",Bamyan,Waras,Bamyan,Waras,2,0,2
+Iran,"Wednesday, June 2, 2021",Daykundi,Nili,Kabul,Kabul,1,0,1
+Iran,"Wednesday, June 2, 2021",Ghazni,Jaghuri,Herat,Herat,1,1,0
+Iran,"Wednesday, June 2, 2021",Ghazni,Qarabagh,Kabul,Kabul,1,1,0
+Iran,"Wednesday, June 2, 2021",Kabul,Kabul,Kabul,Kabul,1,0,1
+Iran,"Wednesday, June 2, 2021",Samangan,Hazrat-e- Sultan,Herat,Herat,1,1,0
+Iran,"Wednesday, June 2, 2021",Samangan,Hazrat-e- Sultan,Samangan,Hazrat-e- Sultan,1,1,0
+Iran,"Wednesday, June 2, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,0,1
+Iran,"Thursday, June 3, 2021",Baghlan,Khenjan,Baghlan,Khenjan,2,1,1
+Iran,"Friday, June 4, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,1,0
+Iran,"Friday, June 4, 2021",Takhar,Taloqan,Takhar,Taloqan,4,3,1
+Iran,"Friday, June 4, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Tuesday, June 8, 2021",Kabul,Kabul,Herat,Herat,1,0,1
+Iran,"Tuesday, June 8, 2021",Kunduz,Chardarah,Kunduz,Chardarah,1,0,1
+Iran,"Tuesday, June 8, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,1,0
+Iran,"Tuesday, June 8, 2021",Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,Sar-e-Pul,1,1,0
+Pakistan,"Tuesday, June 8, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,8,5,3
+Pakistan,"Tuesday, June 8, 2021",Faryab,Maymana,Sar-e-Pul,Sar-e-Pul,1,0,1
+Pakistan,"Tuesday, June 8, 2021",Kunduz,Dasht-e-Archi,Kunduz,Dasht-e-Archi,13,4,9
+Pakistan,"Tuesday, June 8, 2021",Kunduz,Kunduz,Kunduz,Kunduz,9,3,6
+Pakistan,"Tuesday, June 8, 2021",Sar-e-Pul,Sancharak(sangchark),Sar-e-Pul,Sancharak(sangchark),2,1,1
+Other Country,"Wednesday, June 9, 2021",Bamyan,Waras,Kabul,Kabul,3,1,2
+Other Country,"Wednesday, June 9, 2021",Bamyan,Bamyan,Kabul,Kabul,3,1,2
+Other Country,"Wednesday, June 9, 2021",Uruzgan,Tirinkot,Kabul,Kabul,1,1,0
+Pakistan,"Wednesday, June 9, 2021",Kandahar,Arghandab,Kandahar,Arghandab,6,2,4
+Pakistan,"Wednesday, June 9, 2021",Kunduz,Kunduz,Kunduz,Kunduz,2,1,1
+Pakistan,"Wednesday, June 9, 2021",Takhar,Khwajaghar,Takhar,Khwajaghar,1,1,0
+Iran,"Thursday, June 10, 2021",Ghazni,Ghazni,Herat,Herat,1,1,0
+Iran,"Thursday, June 10, 2021",Ghazni,Nawur,Ghazni,Nawur,3,1,2
+Iran,"Thursday, June 10, 2021",Sar-e-Pul,Sar-e-Pul,Herat,Herat,1,0,1
+Iran,"Thursday, June 10, 2021",Wardak,Jalrez,Herat,Herat,1,0,1
+Pakistan,"Thursday, June 10, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,6,1,5
+Iran,"Friday, June 11, 2021",Kabul,Kabul,Kabul,Kabul,2,0,2
+Iran,"Monday, June 14, 2021",Bamyan,Bamyan,Herat,Herat,1,1,0
+Iran,"Monday, June 14, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,2,0,2
+Iran,"Monday, June 14, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Monday, June 14, 2021",Kunduz,Khanabad,Herat,Herat,1,1,0
+Iran,"Tuesday, June 15, 2021",Ghazni,Jaghuri,Ghazni,Jaghuri,1,1,0
+Pakistan,"Tuesday, June 15, 2021",Ghazni,Ghazni,Ghazni,Ghazni,4,1,3
+Iran,"Wednesday, June 16, 2021",Baghlan,Andarab,Baghlan,Andarab,1,1,0
+Iran,"Wednesday, June 16, 2021",Baghlan,Doshi,Baghlan,Doshi,1,1,0
+Iran,"Wednesday, June 16, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,0,1
+Pakistan,"Wednesday, June 16, 2021",Jawzjan,Aqcha,Jawzjan,Aqcha,6,3,3
+Iran,"Thursday, June 17, 2021",Wardak,Markaz-e-Behsud,Herat,Herat,1,1,0
+Iran,"Friday, June 18, 2021",Kabul,Kabul,Kabul,Kabul,6,2,4
+Iran,"Monday, June 21, 2021",Farah,Balabuluk,Herat,Herat,1,1,0
+Iran,"Monday, June 21, 2021",Sar-e-Pul,Sancharak(sangchark),Sar-e-Pul,Sar-e-Pul,1,0,1
+Iran,"Tuesday, June 22, 2021",Kunduz,Kunduz,Kunduz,Kunduz,2,1,1
+Pakistan,"Tuesday, June 22, 2021",Kunduz,Chardarah,Kunduz,Chardarah,3,2,1
+Pakistan,"Tuesday, June 22, 2021",Kunduz,Kunduz,Kunduz,Kunduz,8,2,6
+Pakistan,"Tuesday, June 22, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,14,4,10
+Other Country,"Wednesday, June 23, 2021",Baghlan,Pul-e- khumri,Baghlan,Pul-e- khumri,1,1,0
+Iran,"Wednesday, June 23, 2021",Daykundi,Nili,Daykundi,Nili,9,5,4
+Iran,"Wednesday, June 23, 2021",Kabul,Kabul,Kabul,Kabul,2,0,2
+Iran,"Wednesday, June 23, 2021",Kapisa,Hisa-e- Duwum-e- Kohestan,Kabul,Kabul,2,1,1
+Iran,"Thursday, June 24, 2021",Herat,Injil,Herat,Herat,1,0,1
+Iran,"Thursday, June 24, 2021",Herat,Shindand,Herat,Herat,1,1,0
+Iran,"Friday, June 25, 2021",Wardak,Hesa-e- Awal-e- Behsud,Kabul,Kabul,1,1,0
+Iran,"Monday, June 28, 2021",Ghazni,Dehyak,Ghazni,Dehyak,1,1,0
+Other Country,"Monday, June 28, 2021",Takhar,Taloqan,Takhar,Taloqan,5,2,3
+Iran,"Tuesday, June 29, 2021",Bamyan,Shibar,Herat,Herat,1,1,0
+Pakistan,"Tuesday, June 29, 2021",Faryab,Maymana,Faryab,Maymana,7,1,6
+Iran,"Wednesday, June 30, 2021",Baghlan,Doshi,Baghlan,Doshi,1,1,0
+Iran,"Wednesday, June 30, 2021",Daykundi,Shahrestan,Kabul,Kabul,1,1,0
+Pakistan,"Wednesday, June 30, 2021",Kandahar,Daman,Kandahar,Daman,4,2,2
+Iran,"Thursday, July 1, 2021",Bamyan,Waras,Kabul,Kabul,1,1,0
+Iran,"Thursday, July 1, 2021",Wardak,Daymirdad,Kabul,Kabul,1,1,0
+Iran,"Friday, July 2, 2021",Daykundi,Sang-e-Takht,Herat,Herat,1,0,1
+Iran,"Friday, July 2, 2021",Ghor,Lal Wa Sarjangal,Herat,Herat,1,0,1
+Iran,"Sunday, July 4, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Monday, July 5, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,0,1
+Iran,"Monday, July 5, 2021",Daykundi,Kajran,Herat,Herat,1,0,1
+Iran,"Tuesday, July 6, 2021",Bamyan,Waras,Herat,Herat,1,1,0
+Iran,"Tuesday, July 6, 2021",Daykundi,Khadir,Daykundi,Khadir,1,1,0
+Iran,"Tuesday, July 6, 2021",Daykundi,Nili,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Tuesday, July 6, 2021",Daykundi,Shahrestan,Daykundi,Shahrestan,1,1,0
+Iran,"Tuesday, July 6, 2021",Wardak,Hesa-e- Awal-e- Behsud,Herat,Herat,1,0,1
+Iran,"Wednesday, July 7, 2021",Farah,Balabuluk,Herat,Herat,1,1,0
+Iran,"Wednesday, July 7, 2021",Kabul,Kabul,Kabul,Kabul,1,1,0
+Iran,"Thursday, July 8, 2021",Baghlan,Burka,Baghlan,Burka,3,1,2
+Pakistan,"Saturday, July 10, 2021",Sar-e-Pul,Sayad,Sar-e-Pul,Sayad,5,2,3
+Other Country,"Wednesday, July 14, 2021",Ghazni,Ghazni,Ghazni,Ghazni,1,1,0
+Other Country,"Wednesday, July 14, 2021",Kabul,Kabul,Kabul,Kabul,2,1,1
+Other Country,"Wednesday, July 28, 2021",Bamyan,Bamyan,Kabul,Kabul,1,0,1
+Iran,"Wednesday, July 28, 2021",Ghazni,Jaghuri,Kabul,Kabul,1,0,1
+Iran,"Thursday, July 29, 2021",Daykundi,Nili,Daykundi,Nili,5,2,3
+Iran,"Thursday, July 29, 2021",Kabul,Paghman,Kabul,Paghman,5,1,4
+Iran,"Thursday, July 29, 2021",Logar,Pul-e- Alam,Logar,Pul-e- Alam,8,2,6
+Iran,"Thursday, July 29, 2021",Takhar,Eshkashem,Takhar,Eshkashem,9,6,3
+Iran,"Thursday, July 29, 2021",Takhar,Kalafgan,Takhar,Kalafgan,8,5,3
+Iran,"Monday, August 2, 2021",Farah,Farah,Farah,Farah,1,0,1
+Iran,"Tuesday, August 3, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,0,1
+Other Country,"Wednesday, August 4, 2021",Balkh,Nahr-e- Shahi,Balkh,Nahr-e- Shahi,4,3,1
+Other Country,"Wednesday, August 4, 2021",Kabul,Kabul,Kabul,Kabul,1,0,1
+Iran,"Wednesday, August 4, 2021",Herat,Injil,Herat,Herat,3,2,1
+Iran,"Thursday, August 5, 2021",Sar-e-Pul,Sancharak(sangchark),Sar-e-Pul,Sancharak(sangchark),1,1,0
+Other Country,"Tuesday, August 10, 2021",Ghazni,Jaghuri,Kabul,Kabul,4,2,2
+Other Country,"Tuesday, August 10, 2021",Paktika,Sarrawzah(Sarhawzah),Paktika,Sarrawzah(Sarhawzah),1,1,0
+Iran,"Monday, August 16, 2021",Kunduz,Kunduz,Kabul,Kabul,2,1,1
+Iran,"Thursday, August 26, 2021",Bamyan,Waras,Bamyan,Waras,3,1,2
+Iran,"Thursday, August 26, 2021",Ghazni,Jaghuri,Kabul,Kabul,1,1,0
+Iran,"Thursday, August 26, 2021",Ghazni,Malestan,Kabul,Kabul,1,1,0
+Iran,"Thursday, August 26, 2021",Kabul,Kabul,Kabul,Kabul,4,2,2
+Iran,"Sunday, August 29, 2021",Faryab,Qaysar,Faryab,Qaysar,1,1,0
+Iran,"Thursday, September 2, 2021",Parwan,Charikar,Parwan,Charikar,1,1,0
+Iran,"Monday, September 6, 2021",Kabul,Kabul,Herat,Herat,1,1,0
+Iran,"Tuesday, September 7, 2021",Bamyan,Yakawlang,Herat,Herat,1,0,1
+Iran,"Tuesday, September 7, 2021",Herat,Herat,Kabul,Kabul,1,1,0
+Iran,"Monday, September 13, 2021",Samangan,Hazrat-e- Sultan,Kabul,Kabul,1,1,0
+Iran,"Monday, September 13, 2021",Wardak,Markaz-e-Behsud,Kabul,Kabul,1,0,1
+Iran,"Tuesday, September 14, 2021",Balkh,Mazar-e-Sharif,Herat,Herat,1,1,0
+Iran,"Tuesday, September 14, 2021",Bamyan,Panjab,Herat,Herat,1,1,0
+Iran,"Tuesday, September 14, 2021",Daykundi,Khadir,Herat,Herat,1,1,0
+Iran,"Tuesday, September 14, 2021",Farah,Farah,Herat,Herat,2,2,0
+Iran,"Tuesday, September 14, 2021",Ghor,Lal Wa Sarjangal,Ghor,Lal Wa Sarjangal,1,0,1
+Iran,"Tuesday, September 14, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,1,0
+Iran,"Wednesday, September 15, 2021",Samangan,Hazrat-e- Sultan,Herat,Herat,1,1,0
+Iran,"Sunday, September 19, 2021",Herat,Herat,Herat,Herat,1,0,1
+Pakistan,"Sunday, September 19, 2021",Sar-e-Pul,Sancharak(sangchark),Sar-e-Pul,Sancharak(sangchark),8,3,5
+Iran,"Monday, September 20, 2021",Badakhshan,Fayzabad,Badakhshan,Fayzabad,1,1,0
+Iran,"Monday, September 20, 2021",Bamyan,Yakawlang,Kabul,Kabul,1,1,0
+Iran,"Monday, September 20, 2021",Samangan,Hazrat-e- Sultan,Samangan,Hazrat-e- Sultan,1,1,0
+Iran,"Wednesday, September 22, 2021",Balkh,Mazar-e-Sharif,Kabul,Kabul,1,1,0
+Iran,"Wednesday, September 22, 2021",Sar-e-Pul,Sayad,Balkh,Mazar-e-Sharif,1,1,0
+Iran,"Thursday, September 23, 2021",Bamyan,Yakawlang,Herat,Herat,1,0,1
+Iran,"Thursday, September 23, 2021",Ghor,Lal Wa Sarjangal,Kabul,Kabul,1,1,0
+Iran,"Thursday, September 23, 2021",Kapisa,Hisa-e- Awal-e- Kohestan,Herat,Herat,1,1,0
+Iran,"Monday, September 27, 2021",Herat,Herat,Herat,Herat,1,0,1
+Other Country,"Wednesday, September 29, 2021",Balkh,Mazar-e-Sharif,Balkh,Mazar-e-Sharif,1,0,1
+Iran,"Friday, October 1, 2021",Baghlan,Burka,Baghlan,Burka,4,2,2
+Iran,"Monday, October 18, 2021",Kunduz,Kunduz,Kunduz,Kunduz,3,2,1
+Iran,"Wednesday, October 20, 2021",Bamyan,Bamyan,Herat,Herat,1,0,1
+Iran,"Wednesday, October 20, 2021",Ghazni,Ghazni,Herat,Herat,1,0,1
+Iran,"Wednesday, October 20, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Sunday, October 24, 2021",Daykundi,Ashtarlay,Herat,Herat,1,1,0
+Iran,"Sunday, October 24, 2021",Herat,Herat,Herat,Herat,1,0,1
+Iran,"Tuesday, October 26, 2021",Bamyan,Waras,Kabul,Kabul,1,0,1
+Iran,"Monday, November 1, 2021",Bamyan,Panjab,Herat,Herat,1,1,0
+Iran,"Tuesday, November 2, 2021",Daykundi,Ashtarlay,Herat,Herat,1,0,1
+Iran,"Thursday, November 4, 2021",Herat,Guzara,Herat,Guzara,1,0,1
+Iran,"Thursday, November 4, 2021",Kabul,Kabul,Kabul,Kabul,6,2,4
+Iran,"Thursday, November 4, 2021",Kabul,Paghman,Kabul,Kabul,1,0,1
+Iran,"Thursday, November 4, 2021",Kapisa,Tagab,Kabul,Kabul,1,1,0
+Iran,"Monday, November 8, 2021",Farah,Pushtrod,Farah,Pushtrod,1,0,1
+Iran,"Monday, November 8, 2021",Ghazni,Jaghatu,Kabul,Kabul,2,0,2
+Iran,"Monday, November 8, 2021",Kabul,Kabul,Kabul,Kabul,1,0,1
+Iran,"Wednesday, November 10, 2021",Kunduz,Kunduz,Kunduz,Kunduz,1,0,1
+,,,,,,,,
